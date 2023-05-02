@@ -1,0 +1,36 @@
+#root {
+  width: 100%;
+  margin: 0;
+  text-align: center;
+}
+
+.container {
+  width: 644px;
+  margin: auto;
+}
+
+.singleCard {
+  width: 100px;
+  height: 175px;
+  overflow: hidden;
+  padding: 5px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+.moiveName h4 {
+  padding: 0;
+  margin: 0;
+  font-size: 10px;
+}
+
+.card_img img {
+  width: 100%;
+}
+
+.card_wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: space-around;
+  align-items: center;
+}
