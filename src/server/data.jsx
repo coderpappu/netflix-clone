@@ -21,13 +21,7 @@ let Data = [
       sLink: "https://www.youtube.com/watch?v=HRhJVGjIraE",
     },
   
-    {
-      srcImg:
-        "https://icdn.digitaltrends.com/image/digitaltrends/care-a-lot-2020-movie-poster-500x500.jpg",
-      sName: "A Netflix Orginal Series",
-      sTitle: "I Care A Lot",
-      sLink: "https://www.youtube.com/watch?v=HRhJVGjIraE",
-    },
+    
     {
       srcImg:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyeuN89eSBu4jR5t6W7eqJkpm0ptMtsrDKnS0NR-GMx8JdIRUaSeqbzYUVf8FSxTbfqpw&usqp=CAU",
@@ -57,13 +51,7 @@ let Data = [
       sTitle: "The wHole Truth",
       sLink: "https://www.youtube.com/watch?v=HRhJVGjIraE",
     },
-    {
-      srcImg:
-        "https://upload.wikimedia.org/wikipedia/en/a/a4/I_Am_Mother_poster.png",
-      sName: "A Netflix Orginal Series",
-      sTitle: "I am Mother ",
-      sLink: "https://www.youtube.com/watch?v=HRhJVGjIraE",
-    },
+    
     {
       srcImg:
         "http://photos.hancinema.net/photos/photo1374500.jpg",
